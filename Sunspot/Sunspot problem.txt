@@ -1,0 +1,6 @@
+﻿Consider the monthly averaged sunspot numbers given in a separate file
+Plot the number of sunspots as a function of time.
+Find out the average number of sunspots near the maxima of the
+cycle.
+Find out and list the five lowest maxima in the recorded history.
+Find out and list the five highest maxima in the recorded history.
